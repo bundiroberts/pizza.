@@ -36,3 +36,35 @@ body {
     display:table;
     clear:both;
 }
+.Home {
+    background-image: url('../images/pizza.jpeg');
+    background-size: cover;
+    padding-top: 16%;
+    color: #fff;
+    height: 97vh;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:2px;
+} 
+     .h1,.h4 {
+         margin: 20px;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color:black;
+        text-align: left;
+          
+
+ }
+     .h2 {
+
+        text-align:center;
+        margin-top:5px;
+        color:white;
+    } */
+      .col {
+
+        margin-top:140px;
+        
+      }
+       .card-body {
+           margin:5px;
+           padding:10px ;
+       }
