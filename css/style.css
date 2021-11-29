@@ -68,3 +68,31 @@ body {
            margin:5px;
            padding:10px ;
        }
+       .card h-50 {
+        margin:20px;
+        padding:20px;
+        background-image: url ('images/pepperoni.jpg ')
+    }
+    .card-img-top {
+        margin:10px;
+        padding:10px;
+    }
+     .footer {
+        background-color:black;
+        width:100%;
+        padding:15px;
+        text-align: center;
+        color:white;
+        
+    }
+    #order {
+        background-color:black;
+        color: white;
+        float:left;
+        
+        background-repeat: no-repeat;
+    } 
+
+     #alert {
+        padding:0;
+    }
