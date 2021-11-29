@@ -36,7 +36,7 @@ body {
     display:table;
     clear:both;
 }
-.Home {
+.index {
     background-image: url('../images/pizza.jpeg');
     background-size: cover;
     padding-top: 16%;
