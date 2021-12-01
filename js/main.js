@@ -85,7 +85,7 @@ const pizzaCrusts = [
 ];
 
 //toppings
-const pizzaToppings = ["Mushrooms", "Pineapple", "Bacon"];
+const pizzaToppings = ["Sausage", " blackOlives", " onions"];
 
 const pizzas = [
     { name: "Margheritta pizza" },
@@ -315,7 +315,7 @@ $(function () {
                     <div class="alert alert-success" role="alert">Hello. Order successfully processed. Your order will be delivered to your location 🙂</div>
                         <div class="d-flex justify-content-between">
                             <div>
-                                <h5>Order Summary 😇</h5>
+                                <h5>Order Summary </h5>
                             </div>
                             <div>
                                 <p class="color-palace float-right">Total Ksh <span class="text-bold">${getTotalPlusDeliveryFee}</span></p>
