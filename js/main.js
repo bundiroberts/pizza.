@@ -270,7 +270,7 @@ $(function () {
                     <div class="alert alert-success" role="alert">Hello ${customerName}. Order successfully processed. Your order will be delivered to your location(${customerLocation})🙂</div>
                         <div class="d-flex justify-content-between">
                             <div>
-                                <h5>Order Summary 😇</h5>
+                                <h5>Order Summary </h5>
                             </div>
                             <div>
                                 <p class="color-palace float-right">Total Ksh <span class="text-bold">${getTotalPlusDeliveryFee}</span></p>
